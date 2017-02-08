@@ -1,0 +1,6 @@
+framework module Pods_ft_ios {
+  umbrella header "Pods-ft-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
